@@ -5,6 +5,8 @@ class Conexion {
     private $password = ""; // Aquí debe ser $password en lugar de $pass
     private $dbname = "negociosdb";
 
+    public $conn;
+    
     public function __construct() {
         $this->conn = new mysqli($this->servername, $this->username, $this->password, $this->dbname);
         
