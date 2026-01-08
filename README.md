@@ -45,11 +45,11 @@ Gestión dinámica de los ítems seleccionados. Permite actualizar cantidades o 
 
 ### 5. Inicio de Sesión (Login)
 Acceso seguro para usuarios registrados.
-![Login](screenshots/login.png)
+![Login](screenshots/login.JPG)
 
 ### 6. Registro de Nuevos Usuarios
 Formulario para la creación de cuentas de clientes.
-![Registro](screenshots/registro.png)
+![Registro](screenshots/registro.JPG)
 
 ### 7. Perfil de Usuario / Historial
 Espacio donde el usuario gestiona sus datos.
