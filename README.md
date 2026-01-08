@@ -84,12 +84,12 @@ Tabla CRUD (Crear, Leer, Actualizar, Borrar) para administrar el catálogo de li
 ## 💻 Tecnologías Utilizadas
 
 | Categoría | Tecnología |
-!|Info|---|
-!| **Lenguaje Backend** | PHP 8 Nativo |
-!| **Base de Datos** | MySQL |
-!| **Frontend** | HTML5, CSS3, JavaScript|
-!| **Servidor Local** | XAMPP / Apache |
-!| **Control de Versiones** | Git & GitHub |
+| :--- | :--- |
+| **Lenguaje Backend** | PHP 8 Nativo |
+| **Base de Datos** | MySQL |
+| **Frontend** | HTML5, CSS3, JavaScript |
+| **Servidor Local** | XAMPP / Apache |
+| **Control de Versiones** | Git & GitHub |
 
 ---
 
