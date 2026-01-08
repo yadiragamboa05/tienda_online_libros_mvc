@@ -6,7 +6,7 @@
 ![MySQL](https://img.shields.io/badge/DB-MySQL-orange)
 
 ## 📖 Descripción
-**Shoneko** es una plataforma web robusta para la venta y administración de libros. Desarrollada bajo el patrón de arquitectura **MVC (Modelo-Vista-Controlador)**, garantiza una separación limpia entre la lógica de negocio, la interfaz de usuario y los datos. El sistema cuenta con dos entornos totalmente diferenciados: una tienda pública para clientes y un panel de administración privado.
+**Shoneko** es una plataforma web para la venta y administración de libros. Desarrollada bajo el patrón de arquitectura **MVC (Modelo-Vista-Controlador)**, garantiza una separación limpia entre la lógica de negocio, la interfaz de usuario y los datos. El sistema cuenta con dos entornos totalmente diferenciados: una tienda pública para clientes y un panel de administración privado.
 
 ---
 
@@ -15,7 +15,6 @@
 * **Arquitectura Escalable:** Estructura de carpetas modular (Controllers, Models, Views).
 * **Seguridad:** Validación de sesiones, encriptación de contraseñas y protección contra inyecciones SQL básicas.
 * **Gestión de Estados:** Control de stock en tiempo real y estados de pedidos.
-* **Interfaz Responsiva:** Diseño adaptable a diferentes dispositivos.
 
 ---
 
@@ -23,37 +22,46 @@
 
 La plataforma guía al usuario desde la exploración hasta la compra.
 
-### 1. Página de Inicio (Landing Page)
+### 1. Página de Inicio
 Vista principal atractiva donde se destacan las novedades y promociones actuales.
 ![Inicio](screenshots/1.png)
 
-### 2. Catálogo y Categorías
-Navegación filtrada por géneros literarios para facilitar la búsqueda.
+### 2. Catálogo
+Navegación con búsqueda.
 ![Catálogo](screenshots/2.png)
 
-### 3. Detalle del Libro
+### 3. Catálogo con Categorías
+Navegación filtrada por géneros literarios para facilitar la búsqueda.
+![Catálogo](screenshots/3.png)
+
+### 4. Detalle del Libro
 Ficha técnica completa con sinopsis, autor, precio y disponibilidad de stock.
-![Detalle](screenshots/3.png)
+![Detalle](screenshots/5.png)
 
 ### 4. Carrito de Compras
 Gestión dinámica de los ítems seleccionados. Permite actualizar cantidades o eliminar productos antes de pagar.
 ![Carrito](screenshots/4.png)
+![Carrito](screenshots/6.png)
 
 ### 5. Inicio de Sesión (Login)
 Acceso seguro para usuarios registrados.
-![Login](screenshots/5.png)
+![Login](screenshots/login.png)
 
 ### 6. Registro de Nuevos Usuarios
 Formulario para la creación de cuentas de clientes.
-![Registro](screenshots/6.png)
+![Registro](screenshots/registro.png)
+
+### 7. Perfil de Usuario / Historial
+Espacio donde el usuario gestiona sus datos.
+![Registro](screenshots/7.png)
+
+### 8. Actualización de Información de Usuario
+Formulario para la actualización de información de clientes.
+![Registro](screenshots/8.png)
 
 ### 7. Proceso de Checkout / Confirmación
 Resumen final del pedido antes de confirmar la compra.
-![Checkout](screenshots/7.png)
-
-### 8. Perfil de Usuario / Historial
-(O vista alternativa de la tienda). Espacio donde el usuario gestiona sus datos.
-![Perfil](screenshots/8.png)
+![Checkout](screenshots/6.png)
 
 ---
 
@@ -64,10 +72,12 @@ Resumen final del pedido antes de confirmar la compra.
 ### 9. Dashboard General
 Vista panorámica del estado del sistema y accesos rápidos.
 ![Dashboard](screenshots/AP.1.JPG)
+![Inventario](screenshots/AP.2.JPG)
 
 ### 10. Gestión de Inventario y Productos
 Tabla CRUD (Crear, Leer, Actualizar, Borrar) para administrar el catálogo de libros, precios y stock.
-![Inventario](screenshots/AP.2.JPG)
+![Inventario](screenshots/AP.3.JPG)
+![Inventario](screenshots/AP.4.JPG)
 
 ---
 
@@ -76,8 +86,8 @@ Tabla CRUD (Crear, Leer, Actualizar, Borrar) para administrar el catálogo de li
 | Categoría | Tecnología |
 |Info|---|
 | **Lenguaje Backend** | PHP 8 Nativo |
-| **Base de Datos** | MySQL / MariaDB |
-| **Frontend** | HTML5, CSS3, JavaScript (Vanilla) |
+| **Base de Datos** | MySQL |
+| **Frontend** | HTML5, CSS3, JavaScript|
 | **Servidor Local** | XAMPP / Apache |
 | **Control de Versiones** | Git & GitHub |
 
