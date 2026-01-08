@@ -59,7 +59,7 @@ Espacio donde el usuario gestiona sus datos.
 Formulario para la actualización de información de clientes.
 ![Registro](screenshots/8.png)
 
-### 7. Proceso de Checkout / Confirmación
+### 9. Proceso de Checkout / Confirmación
 Resumen final del pedido antes de confirmar la compra.
 ![Checkout](screenshots/6.png)
 
@@ -69,12 +69,12 @@ Resumen final del pedido antes de confirmar la compra.
 
 Área restringida para la gestión integral del negocio.
 
-### 9. Dashboard General
+### 10. Dashboard General
 Vista panorámica del estado del sistema y accesos rápidos.
 ![Dashboard](screenshots/AP.1.JPG)
 ![Inventario](screenshots/AP.2.JPG)
 
-### 10. Gestión de Inventario y Productos
+### 11. Gestión de Inventario y Productos
 Tabla CRUD (Crear, Leer, Actualizar, Borrar) para administrar el catálogo de libros, precios y stock.
 ![Inventario](screenshots/AP.3.JPG)
 ![Inventario](screenshots/AP.4.JPG)
