@@ -25,42 +25,34 @@ La plataforma guía al usuario desde la exploración hasta la compra.
 
 ### 1. Página de Inicio (Landing Page)
 Vista principal atractiva donde se destacan las novedades y promociones actuales.
-> *Archivo sugerido: 1.png*
 ![Inicio](screenshots/1.png)
 
 ### 2. Catálogo y Categorías
 Navegación filtrada por géneros literarios para facilitar la búsqueda.
-> *Archivo sugerido: 2.png*
 ![Catálogo](screenshots/2.png)
 
 ### 3. Detalle del Libro
 Ficha técnica completa con sinopsis, autor, precio y disponibilidad de stock.
-> *Archivo sugerido: 3.png*
 ![Detalle](screenshots/3.png)
 
 ### 4. Carrito de Compras
 Gestión dinámica de los ítems seleccionados. Permite actualizar cantidades o eliminar productos antes de pagar.
-> *Archivo sugerido: 4.png*
 ![Carrito](screenshots/4.png)
 
 ### 5. Inicio de Sesión (Login)
 Acceso seguro para usuarios registrados.
-> *Archivo sugerido: 5.png*
 ![Login](screenshots/5.png)
 
 ### 6. Registro de Nuevos Usuarios
 Formulario para la creación de cuentas de clientes.
-> *Archivo sugerido: 6.png*
 ![Registro](screenshots/6.png)
 
 ### 7. Proceso de Checkout / Confirmación
 Resumen final del pedido antes de confirmar la compra.
-> *Archivo sugerido: 7.png*
 ![Checkout](screenshots/7.png)
 
 ### 8. Perfil de Usuario / Historial
 (O vista alternativa de la tienda). Espacio donde el usuario gestiona sus datos.
-> *Archivo sugerido: 8.png*
 ![Perfil](screenshots/8.png)
 
 ---
@@ -71,12 +63,10 @@ Resumen final del pedido antes de confirmar la compra.
 
 ### 9. Dashboard General
 Vista panorámica del estado del sistema y accesos rápidos.
-> *Archivo sugerido: AP.1.JPG*
 ![Dashboard](screenshots/AP.1.JPG)
 
 ### 10. Gestión de Inventario y Productos
 Tabla CRUD (Crear, Leer, Actualizar, Borrar) para administrar el catálogo de libros, precios y stock.
-> *Archivo sugerido: AP.2.JPG*
 ![Inventario](screenshots/AP.2.JPG)
 
 ---
@@ -121,4 +111,4 @@ Sigue estos pasos para ejecutar el proyecto en tu entorno local:
     * [GitHub](https://github.com/yadiragamboa05)
 
 ---
-*Proyecto desarrollado con fines educativos para el curso de Desarrollo Web.*
+*Proyecto desarrollado con fines educativos para el curso de Programación Web.*
