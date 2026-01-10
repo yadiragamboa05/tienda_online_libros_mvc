@@ -117,9 +117,10 @@ Sigue estos pasos para ejecutar el proyecto en tu entorno local:
 
 ## ✒️ Autores
 
-* **Max La chira** - *Desarrollo Full Stack & Documentación*
 * **Yadira Gamboa** - *Desarrollo Full Stack & Documentación*
     * [GitHub](https://github.com/yadiragamboa05)
+* **Max La chira** - *Desarrollo Full Stack & Documentación*
+  * [GitHub](https://github.com/maxlac)
 
 ---
 *Proyecto desarrollado con fines educativos para el curso de Programación Web.*
