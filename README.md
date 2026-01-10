@@ -117,6 +117,7 @@ Sigue estos pasos para ejecutar el proyecto en tu entorno local:
 
 ## ✒️ Autores
 
+* **Max La chira** - *Desarrollo Full Stack & Documentación*
 * **Yadira Gamboa** - *Desarrollo Full Stack & Documentación*
     * [GitHub](https://github.com/yadiragamboa05)
 
